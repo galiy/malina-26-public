@@ -71,6 +71,12 @@ ssh malina@<设备地址>
 
 「系统参数 → 监控」启用周期性向外部接收方发送通知。需要填写接收方 IP 和周期。如果不需要监控，请保持关闭。
 
+## API
+
+- [Native API：lists, raws](api-native.md) — 令牌、列表、原始数据、写入与统计。
+- [Legacy API](api-legacy.md) — 全部旧 API 以及与「主节点」的兼容性。
+- Native API 使用 Bearer 令牌或 cookie。Legacy 读取无需鉴权即可访问，Legacy 写入使用 HTTP Basic（`malina` + 密码）。
+
 ## 故障时怎么办
 
 1. 打开「系统信息」：检查温度、电源、磁盘和故障服务。

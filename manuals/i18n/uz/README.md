@@ -56,3 +56,9 @@ BMS билан аккумулятор батареялари ва тармоқ �
 - [Мастер-тугунни созлаш](pages/master-settings.md) — тугунлар рўйхати.
 - [Кириш](pages/login.md) — веб-админкага кириш ва тил танлаш.
 
+## Дастурчилар учун API
+
+- [Native API: lists, raws](api-native.md) — токенлар, қурилмалар рўйхати, хом
+  контрактлар, ёзиш ва статистика.
+- [Legacy API](api-legacy.md) — бутун эски API: `read_json.php`, `read_memory.php`,
+  `check_daemons.php`, `read_bms.php`, `read_sec.php`, `write_*` орқали ёзиш.

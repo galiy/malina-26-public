@@ -43,3 +43,7 @@ The documentation is organized by menu pages. If you do not know where to start,
 - [Master node settings](pages/master-settings.md) — the list of nodes.
 - [Sign in](pages/login.md) — signing in to the web admin and choosing a language.
 
+## API for developers
+
+- [Native API: lists, raw](api-native.md) — tokens, device lists, raw contracts, writing, and statistics.
+- [Legacy API](api-legacy.md) — the whole old API: `read_json.php`, `read_memory.php`, `check_daemons.php`, `read_bms.php`, `read_sec.php`, writing via `write_*`.

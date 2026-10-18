@@ -56,3 +56,9 @@ BMS-ით აკუმულატორის ბატარეები დ�
 - [მასტერ-კვანძის პარამეტრები](pages/master-settings.md) — კვანძების სია.
 - [შესვლა](pages/login.md) — ვებ-ადმინკაში შესვლა და ენის არჩევა.
 
+## API დეველოპერებისთვის
+
+- [Native API: lists, raws](api-native.md) — ტოკენები, მოწყობილობების სიები, ნედლი
+  კონტრაქტები, ჩაწერა და სტატისტიკა.
+- [Legacy API](api-legacy.md) — მთელი ძველი API: `read_json.php`, `read_memory.php`,
+  `check_daemons.php`, `read_bms.php`, `read_sec.php`, ჩაწერა `write_*`.

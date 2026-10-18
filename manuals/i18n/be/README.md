@@ -54,3 +54,9 @@
 - [Налада майстар-вузла](pages/master-settings.md) — спіс вузлоў.
 - [Уваход](pages/login.md) — уваход у веб-адмінку і выбар мовы.
 
+## API для распрацоўнікаў
+
+- [Native API: lists, raws](api-native.md) — токены, спісы прылад, сырыя
+  кантракты, запіс і статыстыка.
+- [Legacy API](api-legacy.md) — увесь стары API: `read_json.php`, `read_memory.php`,
+  `check_daemons.php`, `read_bms.php`, `read_sec.php`, запіс праз `write_*`.

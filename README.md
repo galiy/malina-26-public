@@ -75,3 +75,11 @@ manuals/install-image.md
 
 Здесь нет исходного кода и внутренней технической документации — только
 пользовательские материалы и ссылка на образ.
+
+## API для разработчиков
+
+- [Native API: lists, raws](manuals/api-native.md) — токены, списки устройств,
+  сырые контракты, запись и статистика.
+- [Legacy API](manuals/api-legacy.md) — весь старый API: `read_json.php`,
+  `read_memory.php`, `check_daemons.php`, `read_bms.php`, `read_sec.php`,
+  запись через `write_*`.

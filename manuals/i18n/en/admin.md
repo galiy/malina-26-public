@@ -71,6 +71,12 @@ To forward logs to an external server, specify the address in “System paramete
 
 “System parameters → Monitoring” enables periodic notification sending to an external receiver. You need to specify the receiver IP and the period. If monitoring is not needed, leave it disabled.
 
+## API
+
+- [Native API: lists, raw](api-native.md) — tokens, lists, raw contracts, writing, and statistics.
+- [Legacy API](api-legacy.md) — the whole old API and “Master Node” compatibility.
+- The Native API uses a Bearer token or a cookie. Legacy reading is open without authorization; legacy writing uses HTTP Basic (`malina` + password).
+
 ## What to do in case of failures
 
 1. Open “System information”: check temperature, power, disks, and failed services.

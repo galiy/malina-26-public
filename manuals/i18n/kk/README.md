@@ -55,3 +55,9 @@
 - [Мастер-түйінді баптау](pages/master-settings.md) — түйіндер тізімі.
 - [Кіру](pages/login.md) — веб-админкаға кіру және тілді таңдау.
 
+## Әзірлеушілерге арналған API
+
+- [Native API: lists, raws](api-native.md) — токендер, құрылғылар тізімдері, шикі
+  келісімшарттар, жазу және статистика.
+- [Legacy API](api-legacy.md) — барлық ескі API: `read_json.php`, `read_memory.php`,
+  `check_daemons.php`, `read_bms.php`, `read_sec.php`, `write_*` арқылы жазу.

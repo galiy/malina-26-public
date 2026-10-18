@@ -55,3 +55,9 @@
 - [Танзими гиреҳи мастер](pages/master-settings.md) — рӯйхати гиреҳҳо.
 - [Воридшавӣ](pages/login.md) — воридшавӣ ба панели веб ва интихоби забон.
 
+## API барои таҳиягарон
+
+- [Native API: lists, raws](api-native.md) — токенҳо, рӯйхати дастгоҳҳо, контрактҳои
+  хом, навиштан ва омор.
+- [Legacy API](api-legacy.md) — тамоми API-и кӯҳна: `read_json.php`, `read_memory.php`,
+  `check_daemons.php`, `read_bms.php`, `read_sec.php`, навиштан тавассути `write_*`.
